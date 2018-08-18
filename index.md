@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bilibiliyaoguaixiaogongju/hamster-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bilibiliyaoguaixiaogongju/hamster-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 仓鼠饲养指南
+————————————
+## 饲养环境：
+最适宜温度20-28℃，避免阳光直射或直接风吹的地方，但要注意通风透气。不要离电视，音响，电脑太近，仓鼠可以听到人类听不到的声音，应避免辐射和嘈杂。
+　　夏季：最好不开空调，因为空调的开和关会使温差过大，仓鼠对温度很敏感，容易感冒。
+　　冬季：放在室外仓鼠会因为太冷而伪冬眠。多铺木屑等垫材，为仓鼠配置木制或草制小屋用于保暖。或多给一些棉花让仓鼠自己做窝，脱脂棉就可以，最好用天然棉。最简单的方法是把笼子整个放进纸箱内，但要注意透气。不要给他们棉线织成的物品当窝。虽然暖和，但仓鼠会把棉织物品咬开钻到里面睡觉，因此有些未断开的棉线会容易造成仓鼠窒息。
+## 仓鼠食物：
+蔬菜类：青菜类、红萝卜、菠菜、黄瓜、圆白菜、番瓜(绿黄色蔬菜为佳)。　　
+种子类： 葵花子、花生、核桃、松子。　　
+水果类： 苹果、草莓、樱桃等。　　
+谷物类： 鸡的饲料、小鸟用饲料、小麦、玉米、小米。　
+植物类： 蒲公英、葛类、车前草。
+动物性蛋白： 牛肉、鸡肉、水煮蛋蛋白、起司、牛奶、优酪乳、面包虫、大麦虫。
+## 基本用品的选取：
+笼子：夏天时请使用通风的铁丝笼，或是半铁半胶的笼子，例如野外笼等。冬天时注意保暖，全胶的笼子较适合冬天。笼子底盘请勿使用铁丝网，鼠鼠容易因此骨折受伤。
+　　食盆：一般的小容器都可选用，只要是不容易打翻，且边缘不要太高，不然仓鼠爬不进去。常用的容器：玻璃烟缸，酱油碟子，各类小碗，微波炉盒子，小号保鲜盒。
+　　饮水器：饮水器的一般设计前端有不锈钢珠，购买时注意测试是否漏水。不能直接用碗盛水，因为仓鼠喝水时会弄湿毛，容易着凉生病。
+　　厕所：一般的塑料盒子装上猫砂就是比较简易的厕所了。每天取出结块的猫砂或全部换掉，这就按照个人的卫生习惯了。部分仓鼠会使用，不必需。
+　　浴室：有些仓鼠会在厕所里用猫砂沐浴，虽然不卫生，但这是仓鼠的喜好，那就不再需要沐浴房了，但对爱干净的仓鼠，主人就应该给它买个浴室，放上浴沙让仓鼠尽情地翻滚。
+　　跑轮；野生的仓鼠一天要跑20公里，所以运动对仓鼠非常重要，没有足量的运动，仓鼠会压力过大而出现咬笼子的行为。同时，仓鼠容易营养过剩而过度肥胖。所以细心的主人应该给仓鼠一个跑轮，购买时要注意，应该选择无缝隙的跑轮，仓鼠才不容易受伤。
+　　木屑：很多材料都可选用，大多数人都会选用木屑，因为它比较干净又容易买到。
+　　磨牙物品：仓鼠的牙齿会不断生长，所以需要用磨牙棒来磨掉过长的牙齿。很多仓鼠通过其他方式磨牙，比如咬笼子。不使用你提供的磨牙石/磨牙棒时，也不用太担心。
+　　小屋：小屋有陶瓷的，木制的，草制的，塑料的，仓鼠都很喜欢的，因为仓鼠是爱打洞居住的动物，有条件的应该给仓鼠配个小屋，可以自制。
+  
+  ## 暂时就这么多，我会更新的。下次我会加一些图片    么么哒
